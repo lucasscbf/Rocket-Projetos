@@ -6,6 +6,7 @@
   
   body, input, select, textarea {
     font-family: 'Poppins', sans-serif;
+    
   }
   
   body {
@@ -117,9 +118,9 @@
   
   .input-wrapper-name input {
   
-    background: #FAFAFC;
+    background-color: #f1f1f1;
   
-    border: 1px solid #E6E6F0;
+    border: 1px solid #e6e6f0;
                 border-radius: 8px; 
     
     height: 56px;
@@ -138,7 +139,7 @@
   .input-wrapper input, 
   .input-wrapper textarea,
   .input-wrapper select {
-    background: #FAFAFC;
+    background-color: #f1f1f1;
   
     border: 1px solid #E6E6F0;
                 border-radius: 8px; 
